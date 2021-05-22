@@ -11,7 +11,7 @@ export const Routine = ({ data, image }) => {
           data === "Exercise" ? today[data].join(", ") : today[data];
         return (
           <div className="routine-card">
-            <img src={image[data]} />
+            <img src={image[data]} alt={image} />
             <h2>{data} </h2>
             <p>{tasks}</p>
           </div>
