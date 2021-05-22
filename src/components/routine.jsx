@@ -1,6 +1,6 @@
 import React from "react";
 import { generateDay } from "../helper/generateDate";
-import "./index.css";
+import "../index.css";
 export const Routine = ({ data, image }) => {
   const today = data[generateDay()];
 
@@ -11,7 +11,7 @@ export const Routine = ({ data, image }) => {
           data === "Exercise" ? today[data].join(", ") : today[data];
         return (
           <div className="routine-card">
-            <img src={image[data]} alt={image} />
+            <img className="routine-image" src={image[data]} alt={image} />
             <h2>{data} </h2>
             <p>{tasks}</p>
           </div>
