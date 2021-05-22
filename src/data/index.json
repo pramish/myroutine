@@ -1,0 +1,72 @@
+{
+    "Sunday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    },
+    "Monday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    },
+    "Tuesday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    },
+    "Wednesday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    },
+    "Thursday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    },
+    "Friday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    },
+    "Saturday": {
+        "Exercise": [
+            "Plank",
+            "Jumping Jacks"
+        ],
+        "Breakfast": "Egg",
+        "Lunch": "Smoothie",
+        "Dinner": "Chicken Soup",
+        "Snacks": "Almonds"
+    }
+}
