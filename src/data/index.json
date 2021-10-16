@@ -1,72 +1,184 @@
 {
     "Sunday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     },
     "Monday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     },
     "Tuesday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     },
     "Wednesday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     },
     "Thursday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     },
     "Friday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     },
     "Saturday": {
         "Exercise": [
-            "Plank",
-            "Jumping Jacks"
+            "5 mins slow walk",
+            "2 mins walk",
+            "3 min run",
+            "4 mins walk",
+            "1 min run in full speed",
+            "5 min walk",
+            "1 min normal run",
+            "5 mins walk",
+            "20 Squat",
+            "5 Burpee",
+            "20 dumbell lunge",
+            "1 min jumping jack",
+            "20 Crunches",
+            "10 Push up",
+            "2 min plank",
+            "10 Dumbell curl",
+            "10 dumbell shoulder raise",
+            "10 leg extension curl"
         ],
-        "Breakfast": "Egg",
-        "Lunch": "Smoothie",
-        "Dinner": "Chicken Soup",
-        "Snacks": "Almonds"
+        "Breakfast": "3 boiled eggs and a green tea",
+        "Lunch": "3 boiled eggs and a green tea",
+        "Dinner": "Oats with almond milk",
+        "Supper": "Green tea"
     }
 }
